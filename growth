@@ -2,4 +2,10 @@ millionnaire things
 deployment in progress
 can you see
 cancellation
+<<<<<<< HEAD
 
+=======
+deploy to staging
+good job
+echo tested and accepted
+>>>>>>> 2117ff7 (tested and approved)
